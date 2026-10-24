@@ -2,7 +2,7 @@
 
 Entrate, spese e budget personali sotto controllo. App gratuita per **Windows 10 e 11 (64 bit)**, della stessa famiglia di [NoteFede](https://notefede.date/).
 
-**[Scarica l'ultima versione](https://github.com/geniofabry-cell/BalanceFede-download/releases/latest)** · [Pagina dell'app](https://notefede.date/balancefede.html)
+**[Scarica l'ultima versione](https://github.com/geniofabry-cell/BalanceFede-download/releases/latest)** · [Pagina dell'app](https://notefede.date/balancefede)
 
 - `BalanceFede-Setup-x.y.z.exe`: installer (consigliato), con collegamenti sul desktop e nel menu Start. Si aggiorna da solo.
 - `BalanceFede-x.y.z-portable.exe`: si avvia senza installazione.
